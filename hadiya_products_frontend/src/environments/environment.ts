@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiGatewayURL: 'http://localhost:3000'
+  apiGatewayURL: 'http://3.84.104.21:3000'
 };
 
 /*
